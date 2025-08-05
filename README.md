@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oğuzhan Taş</h1>
-<h3 align="center">A backend Developer</h3>
+<h3 align="center">A Backend Developer</h3>
 
 - 📫 How to reach me **oguzhann.tas1@gmail.com**
 
